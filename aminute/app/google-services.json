@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145526488266",
+    "project_id": "aminute-fef0e",
+    "storage_bucket": "aminute-fef0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145526488266:android:23462e1c5e9396339cc833",
+        "android_client_info": {
+          "package_name": "com.minhtettharutycc.aminute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145526488266-vhsmlsdpj9339rscc2j6f7j6pbocrfsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl2oa3l4YjUUDupDzU1M_x9MiR0LIMD3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145526488266-vhsmlsdpj9339rscc2j6f7j6pbocrfsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

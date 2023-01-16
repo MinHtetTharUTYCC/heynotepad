@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HeyNotepad</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_grid_view">Grid View</string>
+    <string name="action_list_view">List View</string>
+
+
+</resources>
